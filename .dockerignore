@@ -1,0 +1,9 @@
+node_modules
+.pnpm
+.git
+Dockerfile
+docker-compose.dev.yml
+.env*
+.next
+coverage
+*.log
